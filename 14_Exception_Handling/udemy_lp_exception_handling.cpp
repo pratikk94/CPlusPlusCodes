@@ -17,7 +17,7 @@ int main(){
             cout<<divident/divisor;
         }
     }
-    catch(int exception){
+    catch(int &exception){
         cout<<"Divide by zero exception"<<endl;
     }
 
