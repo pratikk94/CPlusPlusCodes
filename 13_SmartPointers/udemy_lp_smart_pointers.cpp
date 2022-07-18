@@ -107,8 +107,5 @@ int main(){
     cout<<ptr2.use_count()<<endl;
     cout<<ptr3.use_count()<<endl;
 
-
-    
-
     return 0;
 }
